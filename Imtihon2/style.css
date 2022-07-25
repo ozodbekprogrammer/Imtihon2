@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #d7d9e8;
+}
+.img1 {
+    width: 24%;
+    height: 630px;
+    position: absolute;
+    left: 8.5%;
+    top: 54%;
+    z-index: -2;
+    border-radius: 50px;
+}
+
+.kom {
+    width:65%;
+    position: absolute;
+    top: 58%;
+    left: 35%;
+}
+.kom1 {
+    width:46%;
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    z-index: -2;
+}
+ul li {
+    padding: 0 1%;
+}
+a {
+    text-decoration: none;
+    color: grey;
+} 
+ul li {
+    list-style: none;
+}
+ul li a {
+    text-decoration: none;
+    color: grey;
+    
+}
